@@ -219,3 +219,5 @@ select rollno from student where rollno%2=0);
 use college;
 describe student;
 select now();
+
+# We can write comments in sql using '#' symbol 
